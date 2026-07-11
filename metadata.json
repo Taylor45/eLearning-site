@@ -1,0 +1,6 @@
+{
+  "name": "Mabasa eLearning Consulting",
+  "description": "A high-conversion eLearning consulting portfolio and platform featuring a course catalog, live mentor booking, interactive ROI calculator, and secure billing portal with invoice generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
